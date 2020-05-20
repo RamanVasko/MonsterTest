@@ -14,7 +14,7 @@ public class CreateAccountTests extends BaseTest {
     @Test
     public void testCreateAccount() {
         AccountPage accountPage = homePage.clickCreateAccount();
-        accountPage.enterEmail("dkes3w22es33w5382@gmail.com");
+        accountPage.enterEmail("dkqs3e22es33w5382@gmail.com");
         accountPage.enterPassword("SecretPassword!123");
         accountPage.reEnterPassword("SecretPassword!123");
 
