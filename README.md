@@ -1,5 +1,6 @@
 # MonsterTest
 Test steps to automate:
+
     1. Go to https://www.monsterworksdemo.com/home/
     2. Click on „Create account“ button (page https://www.monsterworksdemo.com/account/account-lite loads)
     3. Enter some Email address, create password, select mandatory values and click on „Create an account“ button
